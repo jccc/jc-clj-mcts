@@ -1,15 +1,12 @@
 # jc-clj-mcts
 
-I'm an app. Or maybe I'm a library? I haven't decided yet. 
+A collection of functions implementing Monte Carlo Tree Search right now in the domain of Tic Tac Toe.
 
-The choice is up to you!
+See http://randomcomputation.blogspot.com/2013/01/monte-carlo-tree-search-in-clojure.html
 
-## Usage
-
-FIXME
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 
 
 Distributed under the Eclipse Public License, the same as Clojure.
